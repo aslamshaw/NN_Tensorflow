@@ -1,3 +1,4 @@
+"""Comparing single feature predictions with multiple features"""
 import os
 import matplotlib.pyplot as plt
 import numpy as np
